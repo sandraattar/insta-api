@@ -1,4 +1,4 @@
-##Instagram OAuth
+## Instagram OAuth
 This is an application that uses Instagram's OAuth API to display all the images the logged on user has taken near them.
 
 ## How It's Made:
